@@ -1,0 +1,8 @@
+sentence-transformers
+chromadb
+tf-keras
+tensorflow
+pandas
+numpy
+tqdm    
+scikit-learn

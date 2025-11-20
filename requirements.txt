@@ -1,8 +1,11 @@
-sentence-transformers
-chromadb
-tf-keras
-tensorflow
-pandas
-numpy
-tqdm    
+# sentence-transformers
+# tf-keras
+# tensorflow
+# tqdm    
 scikit-learn
+dotenv
+openai
+chromadb 
+numpy 
+python-dotenv 
+pandas
